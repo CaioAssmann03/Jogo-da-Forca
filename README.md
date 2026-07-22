@@ -79,7 +79,6 @@ python jogo_forca.py
 jogo-da-forca/
 │
 ├── jogo_forca.py
-├── palavras.py          # (opcional, caso exista)
 └── README.md
 ```
 
